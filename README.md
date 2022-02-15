@@ -1,0 +1,2 @@
+# Location Name Generator
+RNN learning project. Most of the code is from [Aladdin Persson's tutorial](https://www.youtube.com/watch?v=WujVlF_6h5A). I restructured certain parts of the code to fit my "style" and added my [custom PyTorch checkpoint utility](https://pypi.org/project/pytorch-ckpt-manager/) to save the states for later use. I have also commented most of the code, so feel free to learn from them.
